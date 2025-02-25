@@ -21,6 +21,11 @@
   "engines": {
     "node": ">=22"
   },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rvanbaalen/eslint-config.git"
+  },
   "scripts": {
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
