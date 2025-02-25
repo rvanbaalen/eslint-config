@@ -1,18 +1,17 @@
 import antfu from "@antfu/eslint-config"
 
-export function EslintConfig(options, ...customRules) {
+export function config(options, ...customRules) {
   return antfu({
     react: false,
     typescript: false,
     ignores: [
       "dist/**",
+      "*.md",
     ],
     ...(options?.antfu ? options.antfu : {}),
   }, {
     rules: {
       "node/prefer-global/process": ["error", "always"],
-      "ts/consistent-type-definitions": ["error", "type"],
-      "ts/explicit-function-return-type": ["error"],
       "unused-imports/no-unused-vars": ["error", {
         caughtErrors: "none",
       }],
@@ -38,4 +37,4 @@ export function EslintConfig(options, ...customRules) {
   }, ...customRules)
 }
 
-export default EslintConfig();
+export default config();
