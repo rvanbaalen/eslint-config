@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.0.0...eslint-config-v1.0.1) (2025-02-25)
+
+
+### Bug Fixes
+
+* not a private package ([d7b2b2d](https://github.com/rvanbaalen/eslint-config/commit/d7b2b2d84fbfb059c705190f1511e454594ab2df))
+
 ## 1.0.0 (2025-02-25)
 
 
