@@ -1,0 +1,33 @@
+{
+  "name": "@rvanbaalen/eslint-config",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "A reasonable, reusable default config for eslint v9 based on antfu/eslint-config",
+  "author": "Robin van Baalen",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide"
+  ],
+  "main": "index.js",
+  "files": [
+    "CHANGELOG.md",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@antfu/eslint-config": "^4.3.0",
+    "eslint": "^9.21.0",
+    "eslint-plugin-format": "^1.0.1"
+  }
+}
