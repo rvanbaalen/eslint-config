@@ -1,4 +1,9 @@
+[&larr; See my other Open Source projects](https://robinvanbaalen.nl)
+
 # @rvanbaalen/eslint-config
+![NPM Downloads](https://img.shields.io/npm/d18m/%40rvanbaalen%2Feslint-config)
+![GitHub License](https://img.shields.io/github/license/rvanbaalen/eslint-config)
+![NPM Version](https://img.shields.io/npm/v/%40rvanbaalen%2Feslint-config)
 
 A reusable default configuration for ESLint v9 built on top of [@antfu/eslint-config](https://www.npmjs.com/package/@antfu/eslint-config).
 This configuration provides a sensible set of rules to keep JavaScript code clean and consistent.
