@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.0.2...eslint-config-v1.1.0) (2025-03-20)
+
+
+### Features
+
+* add manual build and deploy workflow with readme-to-html integration ([01a912a](https://github.com/rvanbaalen/eslint-config/commit/01a912ad49f1ce6b74752dab7ab81eb16e6c19bf))
+* add readme-to-html config file ([f85d10e](https://github.com/rvanbaalen/eslint-config/commit/f85d10ecef1c45d90a50c3cbcdb304c5302b6392))
+* enhance release workflow with build and deploy steps for GitHub Pages ([77355c3](https://github.com/rvanbaalen/eslint-config/commit/77355c39012cca4a328b1987df72df51d1a4a1c8))
+
 ## [1.0.2](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.0.1...eslint-config-v1.0.2) (2025-02-25)
 
 
