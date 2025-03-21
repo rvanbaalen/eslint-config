@@ -1,7 +1,7 @@
 {
   "name": "@rvanbaalen/eslint-config",
   "type": "module",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A reasonable, reusable default config for eslint v9 based on antfu/eslint-config",
   "author": "Robin van Baalen",
   "license": "MIT",
