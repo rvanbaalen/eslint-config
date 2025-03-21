@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.1.1...eslint-config-v1.2.0) (2025-03-21)
+
+
+### Features
+
+* split publishing and rendering steps ([48fe04a](https://github.com/rvanbaalen/eslint-config/commit/48fe04aaa06a8d4654b2489ddd07eabe5de3cb31))
+
 ## [1.1.1](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.1.0...eslint-config-v1.1.1) (2025-03-21)
 
 
