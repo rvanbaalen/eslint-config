@@ -10,7 +10,9 @@
     "eslintconfig",
     "config",
     "javascript",
-    "styleguide"
+    "styleguide",
+    "format",
+    "lint"
   ],
   "main": "index.js",
   "files": [
