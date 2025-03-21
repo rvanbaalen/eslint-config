@@ -67,6 +67,10 @@ Define a run script in your package json:
 } 
 ```
 
+## Contributing
+
+Contributions are welcome! Please feel free to [open an issue](https://github.com/rvanbaalen/eslint-config/issues) or [submit a pull request](https://github.com/rvanbaalen/eslint-config/pulls).
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rvanbaalen/eslint-config/blob/main/LICENSE) file for details.
