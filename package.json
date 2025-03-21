@@ -37,5 +37,9 @@
     "@antfu/eslint-config": "^4.3.0",
     "eslint": "^9.21.0",
     "eslint-plugin-format": "^1.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.15",
+    "vite": "^6.2.2"
   }
 }
