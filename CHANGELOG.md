@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.1.0...eslint-config-v1.1.1) (2025-03-21)
+
+
+### Bug Fixes
+
+* add Vite configuration and Tailwind CSS integration ([6552915](https://github.com/rvanbaalen/eslint-config/commit/6552915bd59758c0a2f242d050792cfa1dc88ecb))
+* add Vite scripts for development, build, and preview ([691b07a](https://github.com/rvanbaalen/eslint-config/commit/691b07aad4759d6dbf2dc1eac28b8a21cfae609c))
+
 ## [1.1.0](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.0.2...eslint-config-v1.1.0) (2025-03-20)
 
 
