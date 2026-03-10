@@ -39,12 +39,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@antfu/eslint-config": "^4.3.0",
-    "eslint": "^9.21.0",
-    "eslint-plugin-format": "^1.0.1"
+    "@antfu/eslint-config": "^7.7.0",
+    "eslint": "^10.0.3",
+    "eslint-plugin-format": "^2.0.1"
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4.0.15",
-    "vite": "^6.2.2"
+    "@tailwindcss/vite": "^4.2.1",
+    "vite": "^7.3.1"
   }
 }
