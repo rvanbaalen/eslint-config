@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.2.0...eslint-config-v2.0.0) (2026-03-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* updates eslint from v9 to v10, @antfu/eslint-config from v4 to v7, eslint-plugin-format from v1 to v2, and vite from v6 to v7. Consumers will need to ensure compatibility with these new major versions.
+
+### Features
+
+* update all dependencies to latest major versions ([2842de9](https://github.com/rvanbaalen/eslint-config/commit/2842de93eda2b10aeb396b3ceffa86e18e3722ce))
+
 ## [1.2.0](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.1.1...eslint-config-v1.2.0) (2025-03-21)
 
 
