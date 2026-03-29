@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v2.0.0...eslint-config-v2.0.1) (2026-03-29)
+
+
+### Bug Fixes
+
+* update base path for custom domain ([3f55bf5](https://github.com/rvanbaalen/eslint-config/commit/3f55bf55490893fed8a2d2e09ba0f0264fe71208))
+
 ## [2.0.0](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v1.2.0...eslint-config-v2.0.0) (2026-03-10)
 
 
