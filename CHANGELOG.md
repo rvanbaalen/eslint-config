@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v2.0.1...eslint-config-v2.0.2) (2026-03-29)
+
+
+### Bug Fixes
+
+* use HTTPS repository URL to fix broken GitHub links on docs site ([9ef4f7d](https://github.com/rvanbaalen/eslint-config/commit/9ef4f7deddb18d0a4203d63a953fd4e12392422f))
+
 ## [2.0.1](https://github.com/rvanbaalen/eslint-config/compare/eslint-config-v2.0.0...eslint-config-v2.0.1) (2026-03-29)
 
 
