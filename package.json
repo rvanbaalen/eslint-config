@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rvanbaalen/eslint-config.git"
+    "url": "git+https://github.com/rvanbaalen/eslint-config.git"
   },
   "scripts": {
     "lint": "eslint .",
